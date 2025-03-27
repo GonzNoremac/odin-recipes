@@ -1,0 +1,41 @@
+* {
+    align-self: center;
+}
+
+.header {
+    width: auto;
+    height: 50px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #323339;
+    color: white;
+}
+
+.header .text {
+    text-align: center;
+}
+
+.links {
+    width: 299px;
+    height: auto;
+    background-color: #636A6B;
+    color: white;
+    padding: 1px;
+}
+
+.image {
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #636A6B;
+    color: white;
+}
+
+.para {
+    width: auto;
+    height: auto;
+    background-color: #636A6B;
+    color: white;
+    padding: 5px
+}
